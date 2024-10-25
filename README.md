@@ -60,17 +60,14 @@
   <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
 </div>
 
-## Corporate Communication
-<div>
-  <img src="https://skillicons.dev/icons?i=discord" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp
-  <img src="assets/outlook.svg" alt="OutLook" width="40" height="40"/>
-</div>
+## 🎒 Образование
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Slaaacker/Slaaacker.github.io/refs/heads/main/diplom.png))
+
 <br>
 
 ## 🤝 Contact with me
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:VladimirBychkov2708@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AYKAVU)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:kirill.timakov.online@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/erythroxylonn)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=random&section=footer&fontAlign=50&descAlign=50&descAlignY=50&fontSize=0&reversal=true" />
